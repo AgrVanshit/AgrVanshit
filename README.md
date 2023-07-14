@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend Development and DSA**
 
 - 📫 How to reach me **vanshitagrawal8079@gmail.com**
 
