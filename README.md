@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Frontend Development and DSA**
 
-- 📫 How to reach me **vanshitagrawal8079@gmail.com**
+- 📫 To reach me mail at: **vanshitagrawal8079@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
