@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/agrawal_vanshit" target="blank"><img src="https://img.shields.io/twitter/follow/agrawal_vanshit?logo=twitter&style=for-the-badge" alt="agrawal_vanshit" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 **Data Structure and Algorithms**
 
-- 💬 Ask me about **Frontend Development and DSA**
+- 💬 Ask me about **Full Stack Development and DSA**
 
 - 📫 To reach me, mail at: **vanshitagrawal8079@gmail.com**
 
